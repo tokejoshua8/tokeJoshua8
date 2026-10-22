@@ -5,8 +5,8 @@ Highly motivated and detail-oriented full-stack developer with expertise in both
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tokeyoshua8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tokeyoshua8?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=tokejoshua8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/tokejoshua8?label=Followers&style=social" alt="Followers" />
 </p>
 
 ### Connect with me:
@@ -21,6 +21,6 @@ Highly motivated and detail-oriented full-stack developer with expertise in both
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokeyoshua8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tokeyoshua8&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokejoshua8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tokejoshua8&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
 </div>
