@@ -17,7 +17,7 @@ Highly motivated and detail-oriented full-stack developer with expertise in both
 
 ### Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,figma,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,figma,vscode,github" />
 </p>
 
 <div align="center">
