@@ -1,9 +1,9 @@
 <div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; color: #c9d1d9;">
   
-  <h1 style="font-weight: 600; margin-bottom: 0;">Hello, I'm Joshua T. Olomuntoke</h1>
+  <h1 style="font-weight: 600; margin-bottom: 0;">Hello, I'm Joshua T. Oloruntoke</h1>
   
   <p style="font-size: 16px; color: #8b949e; margin-top: 5px;">
-    <strong>Full-Stack Developer</strong> | <em>JavaScript Enthusiast</em>
+    <strong>Full-Stack Developer</strong>
   </p>
 </div>
 
