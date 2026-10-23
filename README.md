@@ -1,26 +1,36 @@
-<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; color: #c9d1d9;">
-
-  <h1 style="color: #58a6ff; text-align: center; border-bottom: 2px solid #30363d; padding-bottom: 10px;">
-    Hello, I'm Joshua T. Olomuntoke
-  </h1>
-
-  <p style="text-align: center; line-height: 1.6;">
-    Highly motivated and detail-oriented full-stack developer with expertise in both front-end and back-end development. 
-    Proficient in a range of programming languages, including <strong>JavaScript</strong>.
+<div align="center">
+  <!-- Profile Image Placeholder (Replace the URL with a link to your photo) -->
+  <img src="https://github.com/tokejoshua8.png" alt="Joshua T. Olomuntoke" width="150" style="border-radius: 50%; border: 3px solid #58a6ff;" />
+  
+  <h1 style="font-weight: 600; margin-bottom: 0;">Hello, I'm Joshua T. Olomuntoke</h1>
+  
+  <p style="font-size: 16px; color: #8b949e; margin-top: 5px;">
+    <strong>Full-Stack Developer</strong> | <em>JavaScript Enthusiast</em>
   </p>
-
-  <h3 style="color: #58a6ff;">Connect with me:</h3>
-  <p>
-    <a href="https://twitter.com/YOUR_TWITTER_HANDLE" style="color: #58a6ff; text-decoration: none; margin-right: 15px;">🐦 Twitter</a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" style="color: #58a6ff; text-decoration: none;">💼 LinkedIn</a>
-  </p>
-
-  <h3 style="color: #58a6ff;">Languages and Tools:</h3>
-  <p>
-    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 14px;">JavaScript</span>
-    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 14px;">Figma</span>
-    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 14px;">VS Code</span>
-    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; font-size: 14px;">GitHub</span>
-  </p>
-
 </div>
+
+<br />
+
+> **Highly motivated and detail-oriented full-stack developer** with expertise in both front-end and back-end development. Proficient in a range of programming languages, including JavaScript.
+
+<br />
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <code style="padding: 5px 10px; font-size: 14px; color: #f1e05a; background-color: #2d333b; border-radius: 6px;">JavaScript</code>
+  <code style="padding: 5px 10px; font-size: 14px; color: #F24E1E; background-color: #2d333b; border-radius: 6px;">Figma</code>
+  <code style="padding: 5px 10px; font-size: 14px; color: #007ACC; background-color: #2d333b; border-radius: 6px;">VS Code</code>
+  <code style="padding: 5px 10px; font-size: 14px; color: #ffffff; background-color: #2d333b; border-radius: 6px;">GitHub</code>
+</p>
+
+<br />
+
+### 🔗 Connect with me
+<p align="left">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
