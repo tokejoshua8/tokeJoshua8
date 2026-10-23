@@ -1,26 +1,26 @@
-<h1 align="center">Hello, I'm Joshua T. Olomuntoke</h1>
+<div style="font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117; color: #c9d1d9;">
 
-<p align="center">
-Highly motivated and detail-oriented full-stack developer with expertise in both front-end and back-end development. Proficient in a range of programming languages, including [Add your languages here].
-</p>
+  <h1 style="color: #58a6ff; text-align: center; border-bottom: 2px solid #30363d; padding-bottom: 10px;">
+    Hello, I'm Joshua T. Olomuntoke
+  </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tokejoshua8&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tokejoshua8?label=Followers&style=social" alt="Followers" />
-</p>
+  <p style="text-align: center; line-height: 1.6;">
+    Highly motivated and detail-oriented full-stack developer with expertise in both front-end and back-end development. 
+    Proficient in a range of programming languages, including <strong>JavaScript</strong>.
+  </p>
 
-### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+  <h3 style="color: #58a6ff;">Connect with me:</h3>
+  <p>
+    <a href="https://twitter.com/YOUR_TWITTER_HANDLE" style="color: #58a6ff; text-decoration: none; margin-right: 15px;">🐦 Twitter</a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" style="color: #58a6ff; text-decoration: none;">💼 LinkedIn</a>
+  </p>
 
-### Languages and Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,figma,vscode,github" />
-</p>
+  <h3 style="color: #58a6ff;">Languages and Tools:</h3>
+  <p>
+    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 14px;">JavaScript</span>
+    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 14px;">Figma</span>
+    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; margin-right: 5px; font-size: 14px;">VS Code</span>
+    <span style="background-color: #21262d; padding: 5px 10px; border-radius: 5px; font-size: 14px;">GitHub</span>
+  </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokejoshua8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tokejoshua8&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
 </div>
